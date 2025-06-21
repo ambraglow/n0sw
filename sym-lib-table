@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RK3588")(type "KiCad")(uri "${KIPRJMOD}/RK3588/RK3588.kicad_sym")(options "")(descr ""))
+  (lib (name "SMB-CPU-Rockchip-RK3566")(type "KiCad")(uri "${KIPRJMOD}/libraries/rk3566/SMB-CPU-Rockchip-RK3566.kicad_sym")(options "")(descr ""))
+)

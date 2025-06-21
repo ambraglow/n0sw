@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "62917ec2-9d84-4e49-a59b-b79d0b9923fe")
+	(paper "A2")
+	(lib_symbols)
+	(sheet
+		(at 325.12 130.81)
+		(size 86.36 100.33)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6268a21e-8daa-49d3-892a-c7836405723f")
+		(property "Sheetname" "LPDDRx"
+			(at 325.12 130.0984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "physmemory.kicad_sch"
+			(at 325.12 231.7246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "n0sw"
+				(path "/62917ec2-9d84-4e49-a59b-b79d0b9923fe"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 419.1 255.27)
+		(size 152.4 95.25)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "88e16f2e-870d-43e8-9b3f-d5640f202861")
+		(property "Sheetname" "EXT_IO"
+			(at 419.1 254.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "externalio.kicad_sch"
+			(at 419.1 351.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "n0sw"
+				(path "/62917ec2-9d84-4e49-a59b-b79d0b9923fe"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 331.47 22.86)
+		(size 240.03 95.25)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d26430d0-8a3a-4fa9-bdec-5730ec5b29c4")
+		(property "Sheetname" "RK3588_CORE_PWR"
+			(at 331.47 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 331.47 118.6946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "n0sw"
+				(path "/62917ec2-9d84-4e49-a59b-b79d0b9923fe"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 419.1 132.08)
+		(size 152.4 95.25)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d89f6105-3979-403e-9b93-1689d35e75ff")
+		(property "Sheetname" "INT_IO"
+			(at 419.1 131.3684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "internalio.kicad_sch"
+			(at 419.1 227.9146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "n0sw"
+				(path "/62917ec2-9d84-4e49-a59b-b79d0b9923fe"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
